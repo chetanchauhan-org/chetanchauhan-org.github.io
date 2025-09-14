@@ -1354,11 +1354,11 @@ a {
 }
 .cid-uW4S8HGHLW {
   display: flex;
-  background-image: url("../../../assets/images/wallpaper-2000x1223.png");
+  background-image: url("../../../assets/images/wallpaper1-1-2000x1314.png");
 }
 .cid-uW4S8HGHLW .mbr-overlay {
   background-color: #000000;
-  opacity: 0.3;
+  opacity: 0.5;
 }
 @media (min-width: 768px) {
   .cid-uW4S8HGHLW {
@@ -1397,9 +1397,15 @@ a {
 .cid-uW4S8HGHLW .mbr-section-btn {
   text-align: center;
 }
+.cid-uW4S8HGHLW .mbr-section-subtitle {
+  color: #ee1238;
+}
+.cid-uW4S8HGHLW .mbr-section-title {
+  color: #ebce12;
+}
 .cid-uW4S8HGXel {
-  padding-top: 4rem;
-  padding-bottom: 4rem;
+  padding-top: 6rem;
+  padding-bottom: 6rem;
   background-color: #edefeb;
 }
 .cid-uW4S8HGXel .item:focus,
@@ -1536,7 +1542,7 @@ a {
   max-width: 800px;
 }
 .cid-uW4S8HIIxH .mbr-section-title {
-  color: #ffffff;
+  color: #ebce12;
 }
 .cid-uW4S8HIIxH .mbr-text,
 .cid-uW4S8HIIxH .mbr-section-btn {
